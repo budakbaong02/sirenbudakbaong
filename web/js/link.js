@@ -25,6 +25,7 @@ const bugOptions = [
   { value: "support.zoom.us", label: "ZOOM" },
   { value: "zoomgov.com", label: "ZOOMGOV" },
   { value: "ava.game.naver.com", label: "WLG" },
+  { value: "api24-normal-alisg.tiktokv.com", label: "tiktok" },
   { value: "graph.instagram.com", label: "IG" }
 ];
 
