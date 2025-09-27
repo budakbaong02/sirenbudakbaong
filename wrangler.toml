@@ -12,6 +12,7 @@ routes = [
   { pattern = "ava.game.naver.com.siren.anun3.biz.id", custom_domain = true },
   { pattern = "graph.instagram.com.siren.anun3.biz.id", custom_domain = true },
   { pattern = "df.game.naver.com.siren.anun3.biz.id", custom_domain = true },
+  api24-normal-alisg.tiktokv.com.siren.anun3.biz.id
   { pattern = "zoomgov.com.siren.anun3.biz.id", custom_domain = true }
   ]
 
