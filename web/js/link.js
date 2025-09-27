@@ -22,7 +22,7 @@ const pathTemplate = "/afrcloud/{ip}-{port}"
 // Array of bug options for easy management
 const bugOptions = [
   { value: "", label: "Default" },
-  { value: "support.zoom.us", label: "ZOOM" },
+  { value: "support.zoom.us", label: "SupZoom" },
   { value: "zoomgov.com", label: "ZOOMGOV" },
   { value: "ava.game.naver.com", label: "WLG" },
   { value: "api24-normal-alisg.tiktokv.com", label: "tiktok" },
