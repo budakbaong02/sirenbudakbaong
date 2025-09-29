@@ -9,7 +9,7 @@ const QRCode = window.QRCode
 let proxyList = []
 let filteredProxyList = []
 let selectedProxy = null
-const defaultProxyUrl = "https://raw.githubusercontent.com/AFRcloud/ProxyList/refs/heads/main/ProxyList.txt"
+const defaultProxyUrl = "https://raw.githubusercontent.com/barudakbaong/PList1/refs/heads/main/kvProxyList.json"
 
 const serverDomains = ["siren.anun3.biz.id"]
 let selectedServerDomain = serverDomains[0] // Default to first domain
