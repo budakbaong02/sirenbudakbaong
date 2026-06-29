@@ -6,6 +6,7 @@
 const QRCode = window.QRCode
 
 // Global variables
+
 let proxyList = []
 let filteredProxyList = []
 let selectedProxy = null
