@@ -7,13 +7,13 @@ workers_dev = true
 
 routes = [
 
-  { pattern = "siren.anun3.biz.id", custom_domain = true },
-  { pattern = "support.zoom.us.siren.anun3.biz.id", custom_domain = true },
-  { pattern = "ava.game.naver.com.siren.anun3.biz.id", custom_domain = true },
-  { pattern = "graph.instagram.com.siren.anun3.biz.id", custom_domain = true },
-  { pattern = "df.game.naver.com.siren.anun3.biz.id", custom_domain = true },
-  { pattern = "api24-normal-alisg.tiktokv.siren.anun3.biz.id", custom_domain = true }, 
-  { pattern = "zoomgov.com.siren.anun3.biz.id", custom_domain = true }
+  { pattern = "siren.nikmat.web.id", custom_domain = true },
+  { pattern = "support.zoom.us.siren.nikmat.web.id", custom_domain = true },
+  { pattern = "ava.game.naver.com.siren.nikmat.web.id", custom_domain = true },
+  { pattern = "graph.instagram.com.siren.nikmat.web.id", custom_domain = true },
+  { pattern = "df.game.naver.com.siren.nikmat.web.id", custom_domain = true },
+  { pattern = "api24-normal-alisg.tiktokv.siren.nikmat.web.id", custom_domain = true }, 
+  { pattern = "zoomgov.com.siren.nikmat.web.id", custom_domain = true }
   ]
 
 [[kv_namespaces]]
